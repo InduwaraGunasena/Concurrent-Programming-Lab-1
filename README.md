@@ -131,6 +131,22 @@ python3 graphs.py results.csv
 
 ---
 
+## Results
+
+### Case 1
+
+![Case 1 Performance](Samples/case1_performance.png)
+
+### Case 2
+
+![Case 2 Performance](Samples/case2_performance.png)
+
+### Case 3
+
+![Case 3 Performance](Samples/case3_performance.png)
+
+---
+
 ## License
 
 This repository is for educational purposes. Feel free to use and modify the code for learning and experimentation.
