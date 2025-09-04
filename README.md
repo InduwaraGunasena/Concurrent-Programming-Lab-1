@@ -24,7 +24,7 @@ The purpose of this lab is to compare the performance of different synchronizati
 2. **GCC** (with pthread support)  
    ```bash
    gcc --version
-````
+   ````
 
 3. **Python 3** (with `matplotlib` and `pandas`)
 
