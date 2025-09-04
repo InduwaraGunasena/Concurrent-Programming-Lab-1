@@ -134,5 +134,3 @@ python3 graphs.py results.csv
 ## License
 
 This repository is for educational purposes. Feel free to use and modify the code for learning and experimentation.
-
-```
